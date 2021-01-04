@@ -15,3 +15,4 @@ authentication for some of your favorite socials including Facebook, Instagram, 
  "server": "nodemon server/index.js",
     "dev": "concurrently --kill-others \"npm run start\" \"npm run server\" "
     "proxy": "http://localhost:5000",# react-and-express-passport-app-boilerplate
+# react-and-express-passport-app-boilerplate
